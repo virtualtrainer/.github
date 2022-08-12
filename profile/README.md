@@ -37,7 +37,7 @@
 </div>
 
 <details close="close">
-<summary>Table of Contents</summary>
+<summary>Table of Contents (click to open)</summary>
 
 - [About](#about)
   - [Built With](#built-with)
