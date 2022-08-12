@@ -38,7 +38,7 @@
 
 </div>
 
-<details open="close">
+<details close="close">
 <summary>Table of Contents</summary>
 
 - [About](#about)
